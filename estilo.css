@@ -7,11 +7,11 @@ h1 {
 }
 
 hr {
-    color: #c9ccc9;
+    color: #b0f49e;
 }
 
 head {
-    background-color: #d4ffc7;
+    background-color: #c7f7ff;
 }
 
 .cabecera-principal {
@@ -19,7 +19,7 @@ head {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-color: #eef2f7;
+    background-color:#c7f7ff;
     border-top-left-radius: 25px;
     border-top-right-radius: 25px;
     padding: 10px 20px;
@@ -27,13 +27,13 @@ head {
 
 main {
     display:flex;
-    color: #414748;
+    color: #5d858d;
     gap: 20px;
 }
 
 aside {
     width: 25%;
-    background-color: #dbdee1;
+    background-color: #bfcddb;
     padding: 15px;
     border-bottom-left-radius: 25px;
     border-bottom-right-radius: 25px;
@@ -43,7 +43,7 @@ aside {
 
 section {
     width: 75%;
-    background-color: #eef2f7;
+    background-color: #c7f7ff;
     padding: 15px;
     border-bottom-left-radius: 25px;
     border-bottom-right-radius: 25px;
@@ -56,7 +56,7 @@ footer {
 
 .boton {
     color: black;
-    background-color: #cecbcb;
+    background-color: #bea1a1;
     border-radius: 10px;
     padding: 8px 10px;
     margin: 1px;
@@ -67,12 +67,12 @@ footer {
 
 .boton:hover {
     color: white;
-    background-color: #6a6d69;
+    background-color: #667562;
 }
 
 .seccion {
     color: black;
-    background-color: #51689277;
+    background-color: #7692c777;
     border-radius: 10px;
     padding: 8px 10px;
     margin: 1px;
@@ -83,12 +83,12 @@ footer {
 
 .seccion:hover {
     color: white;
-    background-color: #677183;
+    background-color: #8393b0;
 }
 
 .boton-activo {
     color: white;
-    background-color: #6a6d69;
+    background-color: #889a82;
     border-radius: 10px;
     padding: 8px 10px;
     margin: 1px;
@@ -131,7 +131,7 @@ footer {
 }
 
 .seccion-adopcion {
-    background-color: #616ba36c;
+    background-color: #6d7ac36c;
     border-radius: 15px;
     display: flex;
     padding: 5px 5px;
