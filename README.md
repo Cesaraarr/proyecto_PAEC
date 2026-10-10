@@ -1,1 +1,1 @@
-"# proyecto_PAEC" 
+Profesora, si ve que jostin hizo los commits, es que le pedi su compu para pocer hacer mi proyecto por que mi laptop no esta disponible en estos momentos
