@@ -148,3 +148,11 @@ footer {
     padding: 5px;
     border-radius: 20px;
 }
+
+.aside {
+    height: 400px;      /* Altura fija y grande */
+    width: 300px;        /* El ancho se ajusta solo */
+    object-fit: cover;  /* Recorta si es necesario para mantener proporción */
+    border-radius: 20px;
+    padding: 5px;
+}
